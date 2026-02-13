@@ -323,9 +323,9 @@ High-performance simulation architectures
 
 📫 Connect With Me
 
-LinkedIn: (Add your link)
 
-Email: (Professional email)
+
+Email: farisshiku@gmail.com
 
 
 

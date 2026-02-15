@@ -31,7 +31,7 @@ Visualization: Matplotlib, Plotly, Equity Curves, Simulation Graphs
 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faris6552&show_icons=true&count_private=true&hide_border=true&theme=radical" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FarisShikuku&show_icons=true&count_private=true&hide_border=true&theme=radical" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FarisShikuku&layout=compact&langs_count=6&hide_border=true&theme=radical" height="150" alt="languages graph" />
 </div>
 

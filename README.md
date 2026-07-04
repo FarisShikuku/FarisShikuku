@@ -37,7 +37,7 @@
 
 - **NEXUS** — Trading signal management platform (WinUI 3 desktop + Electron/React frontend) with a Telegram signal extraction pipeline, Redis Streams architecture, and confidence-scored parsing.
 - **NexGrid** — Smart energy simulation platform with physics-based renewable modeling and a fully responsive, accessibility-audited interface.
-- **AFYA Diary** — Healthcare AI agent built on Google Cloud Run + FastAPI for real-time diagnostic support workflows.
+- **ARIA** —  AI agent built on Google Cloud Run + FastAPI for real-time diagnostic support workflows.
 - **Sphere SmartAI POS** — Full point-of-sale system backed by a 48-table relational schema and FastAPI service layer.
 - **Sphere Schedule** — Full-stack scheduling platform (Next.js + .NET 8) with JWT auth and role-based workflows.
 

@@ -1,170 +1,184 @@
-👋 Hi, I'm Faris Shikuku
+# 👋 Hi, I'm Faris Shikuku
 
 <p align="center">
-  <b>Systems Architect (Applied Physics & Computer Science)</b><br/>
-  Building intelligent, data-driven systems for finance, energy, and automation.
-</p><p align="center">
-  I bridge physics and software to create simulation engines, algorithmic trading infrastructure, and scalable software platforms that transform complex real-world systems into actionable intelligence.
-</p>---
-
-📈 GitHub Statistics
+  <b>Systems Architect · Applied Physics & Computer Science</b><br/>
+  Building intelligent, data-driven systems for finance, energy, simulation, and automation.
+</p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FarisShikuku&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarisShikuku&layout=compact&theme=tokyonight&hide_border=true" />
-</p><p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=FarisShikuku&theme=tokyonight&hide_border=true" />
-</p><p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarisShikuku&theme=tokyo-night&hide_border=true" />
-</p><p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FarisShikuku&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>---
+  I bridge physics, mathematics, and software engineering to build simulation engines,
+  algorithmic trading infrastructure, AI workflows, and scalable full-stack systems.
+</p>
 
-🧠 Core Engineering Focus
-
-⚡ Smart Energy Systems
-
-- Physics-based grid simulation
-- Solar PV performance modeling
-- Battery storage optimization
-- Energy demand forecasting
-- Renewable integration analysis
-
-📊 Algorithmic Trading
-
-- Signal extraction from semi-structured data
-- Automated trading infrastructure
-- MT5 strategy development
-- Backtesting and portfolio analytics
-- Risk modeling and execution systems
-
-🤖 Machine Learning & Data Science
-
-- Time-series forecasting
-- Predictive analytics
-- Pattern recognition systems
-- Optimization algorithms
-- Data pipeline engineering
-
-🏗 System Architecture
-
-- Event-driven architectures
-- Distributed systems design
-- Service-oriented platforms
-- API ecosystems
-- Cross-platform application strategy
-
-💻 Full-Stack Engineering
-
-- Backend services and APIs
-- Database architecture
-- Mobile and desktop applications
-- Cloud-native deployments
-- High-performance engineering workflows
+<p align="center">
+  <a href="https://github.com/FarisShikuku">
+    <img src="https://komarev.com/ghpvc/?username=FarisShikuku&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+  </a>
+  <a href="https://github.com/FarisShikuku?tab=followers">
+    <img src="https://img.shields.io/github/followers/FarisShikuku?label=Followers&style=flat" alt="Followers"/>
+  </a>
+  <a href="https://github.com/FarisShikuku?tab=repositories">
+    <img src="https://img.shields.io/github/stars/FarisShikuku?affiliations=OWNER&style=flat&label=Stars" alt="GitHub stars"/>
+  </a>
+</p>
 
 ---
 
-🛠 Technology Stack
+## 🧠 Engineering Focus
 
-Languages
-
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"C#" (https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-"C++" (https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-"Java" (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-"Kotlin" (https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-"Rust" (https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-"TypeScript" (https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-"MQL5" (https://img.shields.io/badge/MQL5-003366?style=for-the-badge)
-
-Backend & Data
-
-"ASP.NET Core" (https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-"FastAPI" (https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-"Node.js" (https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-"NestJS" (https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-"SQL_Server" (https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
-"MongoDB" (https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-"DynamoDB" (https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-
-Cloud & DevOps
-
-"AWS" (https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-"Docker" (https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"Render" (https://img.shields.io/badge/Render-000000?style=for-the-badge)
-"Vercel" (https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-AI & Data Science
-
-"PyTorch" (https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-"TensorFlow" (https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-"Pandas" (https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-"NumPy" (https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-"Scikit-Learn" (https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+| Domain | Focus |
+|---|---|
+| ⚡ **Smart Energy** | Physics-based grid simulation, PV modeling, battery optimization, load forecasting |
+| 📈 **Algorithmic Trading** | Signal extraction, MT5 backtesting, risk modeling, execution infrastructure |
+| 🤖 **ML & Data** | Time-series forecasting, pattern recognition, constraint optimization |
+| 🏗 **System Architecture** | Distributed services, event-driven pipelines, APIs, database-driven workflows |
+| 📱 **Cross-Platform** | Desktop, mobile, web, and cloud systems from a coherent architecture |
 
 ---
 
-🚀 Featured Projects
+## 📊 Self-Hosted GitHub Analytics
 
-🔹 NEXUS
+These cards are generated by GitHub Actions and committed directly to this repository.
 
-Trading signal management platform featuring:
+<p align="center">
+  <img src="./assets/metrics.svg" alt="Faris Shikuku GitHub metrics" width="900">
+</p>
+
+### 🔐 Private Contribution Statistics
+
+The following card is generated locally in GitHub Actions from the GitHub GraphQL API using a private repository secret. It exposes aggregate counts only.
+
+<p align="center">
+  <img src="./assets/private-stats.svg" alt="GitHub contribution statistics including private contributions" width="900">
+</p>
+
+> **Privacy:** Private repository names, source code, commit messages, and private repository URLs are never rendered into this card.
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg">
+    <img src="./assets/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation">
+  </picture>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 💹 NEXUS — Trading Signal Infrastructure
+Trading signal management platform combining desktop tooling, web interfaces, signal extraction, and event-driven processing.
 
 - WinUI 3 desktop application
 - Electron + React frontend
 - Telegram signal extraction pipeline
 - Redis Streams architecture
 - Confidence-scored signal parsing
-- Multi-source signal aggregation
+- Backtesting and execution workflows
 
-🔹 NexGrid
+### ⚡ NexGrid — Smart Energy Simulation
+Physics-driven energy simulation and optimization platform.
 
-Advanced smart energy simulation platform featuring:
+- Renewable-energy modeling
+- PV generation simulation
+- Battery storage optimization
+- Load forecasting
+- Grid behavior simulation
+- Responsive and accessibility-focused UI
 
-- Physics-based renewable modeling
-- Grid optimization workflows
-- Battery storage simulation
-- Demand forecasting models
-- Accessibility-audited responsive interface
-
-🔹 ARIA
-
-AI-powered diagnostic assistant built with:
+### 🤖 ARIA — AI Diagnostic Agent
+AI workflow platform designed for real-time diagnostic support.
 
 - FastAPI
 - Google Cloud Run
-- Real-time support workflows
-- Intelligent diagnostics
-- Workflow automation
+- Agent/workflow orchestration
+- Real-time diagnostic support
+- Cloud-native architecture
 
-🔹 Sphere SmartAI POS
+### 🧾 Sphere SmartAI POS
+Full point-of-sale platform built around a structured relational data model and service-oriented backend.
 
-Enterprise-grade Point-of-Sale platform featuring:
-
-- 48-table relational architecture
+- 48-table relational schema
 - FastAPI service layer
-- Inventory management
-- Sales analytics
-- Customer management
-- Multi-role access control
+- Inventory and sales workflows
+- Role-based access
+- Reporting and analytics
 
-🔹 Sphere Schedule
+### 📅 Sphere Schedule
+Full-stack scheduling and workflow platform.
 
-Scheduling and workforce management platform featuring:
-
-- Next.js frontend
-- .NET 8 backend
+- Next.js
+- .NET 8
 - JWT authentication
 - Role-based workflows
-- Real-time scheduling
-- Enterprise scalability
+- Scheduling and task management
+- API-driven architecture
 
 ---
 
-🎯 Current Interests
+## 📌 Featured Repositories
+
+These mirror the repositories currently pinned on my GitHub profile.
+
+| Repository | Description | Stack |
+|---|---|---|
+| [FxInvestment-Windows-WinUI](https://github.com/FarisShikuku/FxInvestment-Windows-WinUI) | Investment portfolio account manager | C# |
+| [FxInvestmentmobile](https://github.com/FarisShikuku/FxInvestmentmobile) | Android investment portfolio manager | Java |
+| [telegram-signal-copier-and-backtester](https://github.com/FarisShikuku/telegram-signal-copier-and-backtester) | Telegram signal parsing, execution and backtesting | Python |
+| [Sphere-Schedule-windows-winui](https://github.com/FarisShikuku/Sphere-Schedule-windows-winui) | Sphere Schedule Windows client | C# |
+| [Sphere-Schedule-AndroidUI](https://github.com/FarisShikuku/Sphere-Schedule-AndroidUI) | Sphere Schedule Android UI prototype | Android |
+| [SmartEnergy-Desktop](https://github.com/FarisShikuku/SmartEnergy-Desktop) | Smart-grid and renewable-energy simulation | Python |
+
+---
+
+## 🛠 Technology Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=.NET&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MQL5](https://img.shields.io/badge/MQL5-003366?style=for-the-badge)
+
+### Backend & Data
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.NET&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge)
+
+### AI & Data Science
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
+
+## 🎯 Current Interests
 
 - Quantitative Finance
 - Smart Grid Optimization
@@ -177,20 +191,28 @@ Scheduling and workforce management platform featuring:
 
 ---
 
-📫 Connect
-
-📧 Email: farisshiku@gmail.com
-
----
-
-💡 Engineering Philosophy
-
-«Build systems that transform complexity into clarity.
-
-Combine mathematics, physics, and software engineering to create solutions that are scalable, intelligent, and impactful.»
-
----
+## 📫 Connect
 
 <p align="center">
-  <i>Mission: Combine physics, mathematics, and software to solve complex real-world problems in finance, infrastructure, and energy.</i>
+  <a href="mailto:farisshiku@gmail.com">
+    <img src="https://img.shields.io/badge/Email-farisshiku%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/FarisShikuku">
+    <img src="https://img.shields.io/badge/GitHub-FarisShikuku-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/faris-shikuku-986946303/">
+    <img src="https://img.shields.io/badge/LinkedIn-Faris%20Shikuku-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+---
+
+## 💡 Engineering Philosophy
+
+> **Build systems that transform complexity into clarity.**
+
+I combine physics, mathematics, data, and software engineering to turn complex real-world problems into measurable, automatable systems.
+
+<p align="center">
+  <i>Model · Simulate · Optimize · Automate</i>
 </p>
